@@ -28,3 +28,7 @@ html{
 .enrico {
     flex: 1
 }
+
+h1{
+    font-family:monospace
+}
